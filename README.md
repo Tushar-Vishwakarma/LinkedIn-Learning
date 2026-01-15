@@ -6,7 +6,7 @@ F1:
 - Job recommendations with match percentages
 - Skill gap visualization
 - "Apply with New Skills" CTA flow
-- Code: 
+- Code: https://linkedinlearning-f1.lovable.app
 ![F1](https://github.com/user-attachments/assets/9bd849e9-10e2-4738-bb82-d98ee84a1f3c)
 
 F2:
